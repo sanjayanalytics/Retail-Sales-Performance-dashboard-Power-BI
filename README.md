@@ -127,8 +127,5 @@ This dashboard enables:
 ✔ Business-focused KPI tracking
 ✔ Advanced DAX measures for accurate calculations
 
+
 ---
-
-
-Just tell me which one you need 😊
-
