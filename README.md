@@ -11,7 +11,7 @@ The dashboard is designed to help business stakeholders monitor performance, com
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/sanjayanalytics/Road-Accident-Dashboard-Excel-/blob/bde10c71787d4b9b45cfb2e58031c871664d6354/Road%20Accident%20Dashboard.png" width="900">
+  <img src="https://github.com/sanjayanalytics/Retail-Sales-Performance-dashboard-Power-BI/blob/789f4948b7fbbce15cb873dc191f835f0e6f3667/Retail%20Sales%20Performance%20Dashboard%20image%20final.png" width="900">
 </p>
 
 ---
