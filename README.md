@@ -8,6 +8,13 @@ The dashboard is designed to help business stakeholders monitor performance, com
 
 ---
 
+## 📷 Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/sanjayanalytics/Road-Accident-Dashboard-Excel-/blob/bde10c71787d4b9b45cfb2e58031c871664d6354/Road%20Accident%20Dashboard.png" width="900">
+</p>
+
+---
 ## 🎯 Business Objectives
 
 * Track overall sales, quantity, profit, and profit margin
