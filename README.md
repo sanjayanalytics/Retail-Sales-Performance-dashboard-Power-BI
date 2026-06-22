@@ -7,14 +7,6 @@ The **Retail Sales Performance Dashboard** is an interactive and insight-driven 
 The dashboard is designed to help business stakeholders monitor performance, compare year-over-year sales, and make data-driven strategic decisions.
 
 ---
-
-## 📷 Dashboard Preview
-
-<p align="center">
-  <img src="https://github.com/sanjayanalytics/Retail-Sales-Performance-dashboard-Power-BI/blob/789f4948b7fbbce15cb873dc191f835f0e6f3667/Retail%20Sales%20Performance%20Dashboard%20image%20final.png" width="900">
-</p>
-
----
 ## 🎯 Business Objectives
 
 * Track overall sales, quantity, profit, and profit margin
@@ -26,6 +18,26 @@ The dashboard is designed to help business stakeholders monitor performance, com
 * Enable dynamic filtering by Year and Customer Segment
 
 ---
+
+## 🛠️ Tools & Technologies Used
+
+* **Microsoft Power BI**
+* Power Query (Data Transformation & Cleaning)
+* DAX (Data Analysis Expressions)
+* Data Modeling (Star Schema Approach)
+* Interactive Slicers & Filters
+* KPI Cards & Advanced Visualizations
+
+---
+
+## 📷 Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/sanjayanalytics/Retail-Sales-Performance-dashboard-Power-BI/blob/789f4948b7fbbce15cb873dc191f835f0e6f3667/Retail%20Sales%20Performance%20Dashboard%20image%20final.png" width="900">
+</p>
+
+---
+
 
 ## 📊 Key Performance Indicators (KPIs)
 
@@ -74,17 +86,6 @@ The KPI cards include trend indicators to quickly visualize performance movement
 
 * Tabular visual with key metrics
 * Highlights most profitable cities
-
----
-
-## 🛠️ Tools & Technologies Used
-
-* **Microsoft Power BI**
-* Power Query (Data Transformation & Cleaning)
-* DAX (Data Analysis Expressions)
-* Data Modeling (Star Schema Approach)
-* Interactive Slicers & Filters
-* KPI Cards & Advanced Visualizations
 
 ---
 
